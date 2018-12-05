@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_cat_male">Cat</string>
+    <string name="action_cat_female">Catf</string>
+    <string name="action_kitten">Kitty</string>
+</resources>
